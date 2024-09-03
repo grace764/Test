@@ -1,0 +1,199 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony Sab HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-id="ts15" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv", Sony AATH
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLiv", Sony Marathi
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment", Sony BBC Earth HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts32" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies", Sony PIX HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-id="ts56" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports", Sony TEN 1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+
+#EXTINF:-1 tvg-id="ts170" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts171" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+
+#EXTINF:-1 tvg-id="ts914" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", Sony TEN 4
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-id="ts1192" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports", Sony TEN 4 HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
