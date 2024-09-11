@@ -327,3 +327,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/inde
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
 #KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="c19216f18ccd88d4a03fe104db65e020" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="c19216f18ccd88d4a03fe104db65e020" group-title="JioCinema",Colors HD
+https://mhdtvweb.com/jc/stream.m3u8?id=c19216f18ccd88d4a03fe104db65e020&e=.m3u8|Referer=https://mhdtvweb.com/
