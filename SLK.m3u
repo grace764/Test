@@ -318,3 +318,12 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fa
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="694" group-title="Voot |  News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="VOOT", News18 UP
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
