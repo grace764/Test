@@ -472,3 +472,30 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/showbox_logo.png" group-title="Music", Show Box
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="	https://i.postimg.cc/gcCzpfNb/xvuss0-N-removebg-preview.png" group-title="Music", Hindi Hits
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTWmzgcQ/Screenshot-2023-09-13-115619.png" group-title="Music", Hindi Hits
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
