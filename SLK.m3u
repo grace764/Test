@@ -8114,3 +8114,12 @@ https://iptv-live-play1.streamready.in/live/media10/dd_chandna/vdashc/dd_chandna
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_selection_type=manual-osd
 https://iptv-live-play1.streamready.in/live/media14/public_music/vdashc/public_music.mpd
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://i.postimg.cc/2S0NXMfh/image.png" group-title="Entertainment", Sony Liv
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
+#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
+https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
