@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony Sab HD
 #KODIPROP:contentlookup=False
