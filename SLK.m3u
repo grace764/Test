@@ -6,15 +6,6 @@
 #KODIPROP:mimetype=video/mp2t
 http://mag2-dream4k.1-aaa.net:80/live/uv1b6g931a/hiwgnx3en1/276925.ts
 
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://banner2.cleanpng.com/20180419/xoe/avfzoki9l.webp" group-title="Entertainment", Colors HD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
-#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
-http://mag2-dream4k.1-aaa.net:80/live/uv1b6g931a/hiwgnx3en1/276925.ts
-
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony Sab HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/x-mpegURL
