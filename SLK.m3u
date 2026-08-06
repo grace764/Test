@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#EXTINF:-1 tvg-id="276925" tvg-name="Channel 276925" tvg-logo="https://banner2.cleanpng.com/20180419/xoe/avfzoki9l.webp" group-title="Entertainment",Colors HD
+#EXTINF:-1 tvg-id="276925" tvg-name="Channel 276925" tvg-logo="https://w7.pngwing.com/pngs/269/454/png-transparent-colors-viacom-18-television-channel-television-show-india-miscellaneous-purple-television.png" group-title="Entertainment",Colors HD
 #KODIPROP:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
