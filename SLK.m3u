@@ -1,4 +1,11 @@
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
+
+#EXTINF:-1 tvg-id="276925" tvg-name="Channel 276925" tvg-logo="https://banner2.cleanpng.com/20180419/xoe/avfzoki9l.webp" group-title="Entertainment",Colors HD
+#KODIPROP:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+http://mag2-dream4k.1-aaa.net:80/live/uv1b6g931a/hiwgnx3en1/276925.ts
+
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://banner2.cleanpng.com/20180419/xoe/avfzoki9l.webp" group-title="Entertainment", Colors HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/x-mpegURL
