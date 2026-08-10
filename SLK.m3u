@@ -4,6 +4,13 @@
 #KODIPROP:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
+http://line.mk7.top:80/live/EHM8ARWdJV/tFMo8jLZDU/234951.ts
+
+
+#EXTINF:-1 tvg-id="276925" tvg-name="Channel 276925" tvg-logo="https://w7.pngwing.com/pngs/269/454/png-transparent-colors-viacom-18-television-channel-television-show-india-miscellaneous-purple-television.png" group-title="Entertainment",Colors HD
+#KODIPROP:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
 http://mag2-dream4k.1-aaa.net:80/live/uv1b6g931a/hiwgnx3en1/276925.ts
 
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony Sab HD
